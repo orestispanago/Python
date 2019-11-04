@@ -1,3 +1,5 @@
+""" Calculates distance between lat-lon points"""
+
 import geopy.distance 
 
 lapup_coords = (38.291969, 21.788156) # lapup
